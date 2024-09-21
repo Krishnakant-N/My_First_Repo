@@ -1,2 +1,4 @@
 # My_First_Repo
-My first project on github.
+This is my first project on github.
+<br>
+Author - Krishnakant Niwaria
